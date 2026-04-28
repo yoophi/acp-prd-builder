@@ -1,0 +1,7 @@
+- [x] 원본 프로젝트 복사 및 앱 메타데이터 변경
+- [x] 워크스페이스/Git/GitHub/로컬태스크 UI 제거
+- [x] 프론트 agent-run 상태/API 단순화
+- [x] Tauri 백엔드 command/module 정리
+- [x] PRD 입력/프롬프트 레이어 추가
+- [x] OpenUI 렌더러 확장 지점 추가
+- [x] 빌드 및 테스트 검증
